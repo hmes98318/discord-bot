@@ -1,9 +1,8 @@
 {
-  "name": "ezr",
+  "name": "bot",
   "version": "4.0.0",
-  "description": "go fuck yourself",
-  "main": "ezr.js",
-  "author": "tofu",
+  "main": "bot.js",
+  "author": "user",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "discord.js": "^12.0.2",
