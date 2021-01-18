@@ -1,0 +1,78 @@
+{
+    "food" : [
+        "窩不知道",
+        "好",
+        "我想吃大麥克",
+        "你今天foodpanda了嗎?",
+        "今天就吃水餃吧！",
+        "今天就吃八方吧!","今天就吃拉麵吧!",
+        "今天就吃鐵板燒吧!",
+        "今天就吃火雞肉飯吧！",
+        "今天就吃蛋包飯吧!",
+        "今天就吃泰式料理吧!",
+        "今天就吃牛排吧!",
+        "今天就吃泡麵吧!",
+        "今天就吃炒麵吧!",
+        "今天就吃炒飯吧!",
+        "今天就吃炸雞吧!"
+    ],
+
+    "howFeel" : [
+        "我覺得不行",
+        "我覺得可以"
+    ],
+
+    "yesNo" : [
+        "並沒有",
+        "我不是，我沒有",
+        "才不是呢",
+        "窩不知道",
+        "對",
+        "沒錯",
+        "好"
+    ],
+
+    "nutTime": [
+        "不行，你最近尻太多了",
+        "那就來一發吧!",
+        "要兩發",
+        "戒尻time",
+        "看著我尻一發",
+        "可以，但要空尻不能看本",
+        "今天就用這本來一發吧!"
+    ],
+
+    "dcGif" : [
+        "https://media.discordapp.net/attachments/635092819169509386/692381712172449852/image0.gif",
+        "https://cdn.discordapp.com/attachments/617000835809017856/693852347901935656/cdda3c0efb302627.gif",
+        "https://media.discordapp.net/attachments/642375386486931472/715992895328616578/received_1602203053279866.gif",
+        "https://media.discordapp.net/attachments/635092819169509386/714903462306906152/received_2528775257384008.gif",
+        "https://cdn.discordapp.com/attachments/561925428625932288/699538895578202162/1586849827716.gif",
+        "https://media.discordapp.net/attachments/730039021677576273/730091596913180802/image0.gif"
+    ],
+
+    "DBD" : [
+        ["電鋸","./file/DeadByDaylight/AK_HI_charPreview_portrait.png"],
+		["夾子","./file/DeadByDaylight/AK_TR_charPreview_portrait.png"],
+		["隱鬼","./file/DeadByDaylight/AK_WR_charPreview_portrait.png"],
+		["護士","./file/DeadByDaylight/BK_NU_charPreview_portrait.png"],
+        ["邁爾斯","./file/DeadByDaylight/CK_SH_charPreview_portrait.png"],
+        ["妖婆","./file/DeadByDaylight/DK_HA_charPreview_portrait.png"],
+        ["夢魘","./file/DeadByDaylight/EK_NI_charPreview_portrait.png"],
+        ["小豬","./file/DeadByDaylight/FK_PI_charPreview_portrait.png"],
+        ["小丑","./file/DeadByDaylight/GK_CL_charPreview_portrait.png"],
+        ["凜","./file/DeadByDaylight/HK_SP_charPreview_portrait.png"],
+        ["醫生","./file/DeadByDaylight/IK_DO_charPreview_portrait.png"],
+        ["皮臉","./file/DeadByDaylight/JK_CA_charPreview_portrait.png"],
+        ["兔子","./file/DeadByDaylight/JK_HU_charPreview_portrait.png"],
+        ["軍團","./file/DeadByDaylight/KK_LE_charPreview_portrait.png"],
+        ["瘟疫","./file/DeadByDaylight/MK_PL_charPreview_portrait.png"],
+        ["鬼臉","./file/DeadByDaylight/OK_GH_charPreview_portrait.png"],
+        ["魔神","./file/DeadByDaylight/QK_DE_charPreview_portrait.png"]
+    ],
+
+    "reserve" : ""
+
+
+
+}

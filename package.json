@@ -1,0 +1,13 @@
+{
+  "name": "ezr",
+  "version": "4.0.0",
+  "description": "go fuck yourself",
+  "main": "ezr.js",
+  "author": "tofu",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.0.2",
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
+  }
+}
